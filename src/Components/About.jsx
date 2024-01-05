@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a professional Discord Community Manager and Moderator. I have 4 years of experience on Discord managing different types of communities including Youtubers with 20,000,000 subscribers and over 700K member count servers. I have by and large received all positive reviews from multiple clients who are listed on my portfolio website along with everything I offer. My portfolio: https://protonicgod.me/";
 
 /**
  * List of some of skills or technologies you work on, are learning,
